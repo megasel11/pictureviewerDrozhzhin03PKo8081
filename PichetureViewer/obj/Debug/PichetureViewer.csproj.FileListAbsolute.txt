@@ -1,0 +1,11 @@
+C:\Users\test\source\repos\PichetureViewer\PichetureViewer\bin\Debug\PichetureViewer.exe.config
+C:\Users\test\source\repos\PichetureViewer\PichetureViewer\bin\Debug\PichetureViewer.exe
+C:\Users\test\source\repos\PichetureViewer\PichetureViewer\bin\Debug\PichetureViewer.pdb
+C:\Users\test\source\repos\PichetureViewer\PichetureViewer\obj\Debug\PichetureViewer.csprojAssemblyReference.cache
+C:\Users\test\source\repos\PichetureViewer\PichetureViewer\obj\Debug\PichetureViewer.Form1.resources
+C:\Users\test\source\repos\PichetureViewer\PichetureViewer\obj\Debug\PichetureViewer.Properties.Resources.resources
+C:\Users\test\source\repos\PichetureViewer\PichetureViewer\obj\Debug\PichetureViewer.csproj.GenerateResource.cache
+C:\Users\test\source\repos\PichetureViewer\PichetureViewer\obj\Debug\PichetureViewer.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\PichetureViewer\PichetureViewer\obj\Debug\PichetureViewer.exe
+C:\Users\test\source\repos\PichetureViewer\PichetureViewer\obj\Debug\PichetureViewer.pdb
+C:\Users\test\source\repos\PichetureViewer\PichetureViewer\obj\Debug\PichetureViewer.AboutBox1.resources
